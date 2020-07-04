@@ -3013,7 +3013,7 @@ fieldset[disabled] .form-control {
 		margin: 0;
 	}
 	.section-header .content h1 {
-		font-size: 4.5em;
+		/* font-size: 4.5em; */
 		letter-spacing: 0.07em;
 		line-height: 1.7;
 	}
